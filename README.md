@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+my name is bram sterken and im a software developer student at SintLucas.
 <!--
 **Bsterken/Bsterken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
